@@ -35,7 +35,9 @@ English - Intermediate
 Turkish - pre-intermediate
 ***
 
+## Briefly About Myself: 
 
+I want to learn a new profession. iT is an interesting new world for me. I want to get to know him better, look into each sphere and become a master of several. I want to create my own website, application and game. I want to work in a large company and become a part of something meaningful. In my free time I do sports, study English and write music.
 
 
 

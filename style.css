@@ -1,0 +1,119 @@
+* {
+   box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+   .section {
+     width: 100%;
+   }
+ }
+ 
+html {
+   scroll-behavior: smooth;
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+   min-height: 100vh;
+   margin: 0;
+   padding: 0;
+   
+}
+
+.header {
+   
+   max-width: 1440px;
+   margin: 0 auto;
+   padding: 1px ;
+}
+
+
+.nav-list {
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   list-style: none;
+}
+.nav-item {
+   padding: 0 10px;;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+   font-size: 20px;
+   transition: color 0.5s;
+}
+a:hover {
+   color: gray;
+}
+
+
+.main {
+   display: flex;
+   flex-wrap: wrap;
+}
+.section {
+   width: 50%;
+   padding: 0 70px;
+}
+
+.section_1 {
+   background-color: black;
+   color: white;
+   padding: 40px 0 100px 100px;
+}
+
+h1 {
+   font-size: 40px;
+}
+ .photo {
+   width: 80%;
+   margin: 30px 30px 30px 0;
+ }
+ 
+ 
+
+ .section-title {
+   font-size: 20px;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+ }
+ 
+ 
+li {
+   list-style-type: none; /* Убираем маркеры */
+   padding: 5px 0;
+  }
+  ul {
+   margin-left: 0; 
+   padding-left: 0; 
+  }
+
+  .sections_1 {
+   margin: 0px 80px 80px 0;
+   border-bottom: 2px solid white;
+  }
+  .sections_2 {
+   margin: 80px 250px 0px 0;
+   border-bottom: 2px solid black;
+  }
+
+  span {
+   color: gray;
+  }
+
+.footer {
+   margin-top: 30px;
+   padding: 5px 70px;
+   display: flex;
+   justify-content: left;
+}
+.year {
+   margin: 0 550px 0 0;
+   font-size: 50px;
+}
+.icon2 {
+   width: 30%;
+}

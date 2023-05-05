@@ -165,25 +165,6 @@ li {
   vertical-align: center;
 }
 
-.icon-github {
-  width: 70px;
-}
-
-.icon-linkedin {
-  width: 70px;
-}
-
-.icon-discord {
-  width: 70px;
-}
-
-.icon-rss {
-  width: 180px;
-}
-
-.icon-telegram {
-  width: 70px;
-}
 
 @media screen and (max-width: 1260px) {
   .nav-list {

@@ -160,15 +160,29 @@ li {
 
 .year {
   color: black;
-  font-size: 50px;
+  font-size: 60px;
+  font-weight: 600;
+  vertical-align: center;
+}
+
+.icon-github {
+  width: 70px;
 }
 
 .icon-linkedin {
-  width: 13%;
+  width: 70px;
+}
+
+.icon-discord {
+  width: 70px;
 }
 
 .icon-rss {
-  width: 36%;
+  width: 180px;
+}
+
+.icon-telegram {
+  width: 70px;
 }
 
 @media screen and (max-width: 1260px) {
